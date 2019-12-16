@@ -41,9 +41,12 @@ msfRpcHost = 127.0.0.1
 msfRpcPort = 55552
 msfRpcUser = msf
 msfRpcPass = SuperSecret
+<<<<<<< HEAD
 [mattermost]
 mmHook = https://your-mattermost-instance.com/webhooks/<randomstuff>
 botName = ShellBot⏎
+=======
+>>>>>>> ae100dd8f484de9fdaa2a345a9df31fda22960c0
 ```
 
 ### MSFRPC
